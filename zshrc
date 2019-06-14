@@ -49,7 +49,7 @@ detect_context() {
 	local result=""
 
 	for ((i = 1; i <= $#SUFFIX_MAP; i++)); do
-		if echo $ls_result | grep -i "${SUFFIX_MAP[$i]}" >/dev/null; then
+		if echo $ls_result | grep -Ei "${SUFFIX_MAP[$i]}\$" >/dev/null; then
 			if [ -z $result ]; then
 				result="${ICON_MAP[$i]}"
 			else
