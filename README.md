@@ -8,11 +8,7 @@
 
 # 截图
 
-![directory](https://raw.githubusercontent.com/pot-code/matrix-zsh-theme/master/screenshots/directory.png)
-
-![git_context](https://raw.githubusercontent.com/pot-code/matrix-zsh-theme/master/screenshots/git_context.png)
-
-![git_error_dirty](https://raw.githubusercontent.com/pot-code/matrix-zsh-theme/master/screenshots/git_error_dirty.png)
+![overview](https://raw.githubusercontent.com/pot-code/matrix-zsh-theme/master/screenshots/overview.png)
 
 # Credit
 
